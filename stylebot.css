@@ -1,0 +1,33 @@
+.container{
+    font-family: 'Keep Calm', 'News706 BT','Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+p{
+    font-family: 'News706 BT','Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+body, ::after, ::before {
+    box-sizing: border-box;
+    background-color: rgba(226, 217, 217, 0.6);
+}
+.navbar-brand{
+    font-family: Viga;
+    font-size: 32px;
+    margin-left: 125px;
+}
+.navbar{
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7); 
+    padding-right: 125px;
+    background-color: white;
+}
+.navbar-brand,.nav-link{
+    color: black !important;
+    text-shadow: 1px 1px 3px rgba(245, 243, 243, 0.7);    
+    }
+.nav-link{
+	text-transform: uppercase;
+    margin-right: 30px;
+    
+}
+.tombol{
+    text-transform: uppercase;
+    border-radius: 40px;
+}

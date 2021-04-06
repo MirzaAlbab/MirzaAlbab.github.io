@@ -1,0 +1,53 @@
+body{
+	min-height: 1000px;
+	background-color: rgba(226, 217, 217, 0.6);
+}
+.quote,.kartu{
+	font-family: 'Keep Calm', 'News706 BT','Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+.navbar{
+	position: relative;
+    z-index: 1;
+}
+.navbar-brand{
+    font-family: Viga;
+    font-size: 32px;
+}
+.navbar-brand,.nav-link{
+    color: white !important;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);    
+    }
+.nav-link{
+	text-transform: uppercase;
+    margin-right: 30px;
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+.tombol{
+    text-transform: uppercase;
+    border-radius: 40px;
+}
+.jumbotron{
+	background-image: url(ship.jpg);
+	background-repeat: no-repeat;
+	height: 500px;
+	background-size: cover;
+	background-position: 0px -300px;
+	line-height: 500px;
+	position: relative;
+	margin-top: -75px;
+}
+.jumbotron h1{
+	margin-top: 250px;
+	margin-left: 30px;
+	color: #fff;
+	font-size: 35px;
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+}
+.jumbotron h3{
+	color: #fff;
+	margin-left: 30px;
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+
+

@@ -1,0 +1,52 @@
+body{
+    position: relative;
+}
+.container {
+    width: 1000px;;
+    background: #ffffff;
+    box-shadow: 0px 15px 16.83px 0.17px rgb(0 0 0 / 5%);
+    border-radius: 12px;
+    padding: 0;
+    position: relative;
+}
+img{
+    margin-top: 6%;
+}
+
+.formulir{
+    background: #f4f7f8;;
+    margin: 0 0 0 50%;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Keep Calm', 'News706 BT','Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+body, ::after, ::before {
+    box-sizing: border-box;
+    background-color: rgba(226, 217, 217, 0.6);
+}
+.navbar-brand{
+    font-family: Viga;
+    font-size: 32px;
+    margin-left: 125px;
+}
+.navbar{
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7); 
+    padding-right: 125px;
+    background-color: white;
+}
+.navbar-brand,.nav-link{
+    color: black !important;
+    text-shadow: 1px 1px 3px rgba(245, 243, 243, 0.7);    
+    }
+.nav-link{
+	text-transform: uppercase;
+    margin-right: 35px;
+}
+.tombol{
+    text-transform: uppercase;
+    border-radius: 40px;
+}
+div {
+    display: block;
+}
